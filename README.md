@@ -5,7 +5,7 @@ Open Rose Meditation is a free online resource providing access to meditation se
 This repository hosts the static website for Open Rose Meditation, made available through GitHub Pages.
 
 ## Website
-You can visit the website (here)[https://openrosemeditation.com].
+You can visit the website [here](https://openrosemeditation.com).
 
 ## Repository Contents
 - *about.html*: The page detailing the history and purpose of Open Rose Meditation.
