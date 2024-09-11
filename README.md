@@ -5,9 +5,16 @@ Open Rose Meditation is a free online resource providing access to meditation se
 This repository hosts the static website for Open Rose Meditation, made available through GitHub Pages.
 
 ## Website
+You can visit the website (here)[https://openrosemeditation.com].
 
-You can visit the website [here](https://openrosemeditation.com).
+## Repository Contents
+- *about.html*: The page detailing the history and purpose of Open Rose Meditation.
+- *contact.html*: The contact page with a form and additional contact information.
+- *events.html*:  The page listing upcoming meditation events and schedules.
+- *index.html*: The main HTML file for the website.
+- *resources.html*: The page offering meditation resources and links.
+- styles.css: External stylesheet for the website.
+- README.md: This file, providing an overview of the project.
 
-## License
-
-This project is open source and available for anyone interested in punk culture and digital history. It is licensed under a Creative Commons Attribution 4.0 International License. View the [LICENSE](LICENSE.md) for more details
+## Support
+If you have any questions or need help, feel free to reach out via the contact page on the website or open an issue in this repository.
