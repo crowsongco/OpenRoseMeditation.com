@@ -1,0 +1,45 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Base styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Light Mode */
+body.light-mode {
+    background-color: #ffe4e1; /* Light rose pink */
+    color: #333;
+}
+.light-mode .navbar, .light-mode footer {
+    background-color: #ffc1c1;
+    color: #333;
+}
+.light-mode .btn-toggle-theme {
+    color: #333;
+    background-color: #ff8a80;
+}
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: #8b0000; /* Deep rose red */
+    color: #f5f5f5;
+}
+.dark-mode .navbar, .dark-mode footer {
+    background-color: #a52a2a;
+    color: #f5f5f5;
+}
+.dark-mode .btn-toggle-theme {
+    color: #f5f5f5;
+    background-color: #ff8a80;
+}
+
+/* Additional Styling */
+.navbar-brand {
+    font-weight: bold;
+}
+.btn-toggle-theme {
+    border: none;
+    transition: background-color 0.3s, color 0.3s;
+}
